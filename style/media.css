@@ -1,0 +1,169 @@
+@media(max-width: 1650px){
+    .container{
+        width: 1400px;
+    }
+}
+
+@media(max-width: 1450px){
+    .container{
+        width: 1200px;
+    }
+
+    .nav-content{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media(max-width: 1250px){
+    .container{
+        width: 1000px;
+    }
+
+    .nav-list{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-link{
+        margin: 15px;
+    }
+
+
+
+    .intro-content{
+        flex-direction: column;
+    }
+
+    .intro-left{
+        width: 80%;
+        margin-bottom: 30px;
+    }
+
+    .intro-left-buttons{
+        flex-direction: column;
+    }
+
+    .intro-left-buttons-1{
+        width: 80%;
+        height: 100px;
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+
+    .intro-left-buttons-2{
+        width: 85%;
+        height: 100px;
+        margin: 0 auto;
+    }
+
+    .intro-right{
+        width: 80%;
+    }
+}
+
+@media(max-width: 1050px){
+    .container{
+        width: 800px;
+    }
+
+
+    .section1-info{
+        position: static;
+    }
+
+
+
+
+
+    .section2-content{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .section2-card{
+        width: 70%;
+        margin-bottom: 10px;
+    }
+
+    
+}
+
+@media(max-width: 850px){
+    .container{
+        width: 600px;
+    }
+
+    .intro-address-code{
+        font-size: 18px;
+    }
+
+
+
+    .section1-img-info-text{
+        padding-bottom: 50px;
+        font-size: 30px;
+    }
+}
+
+@media(max-width: 650px){
+    .container{
+        width: 400px;
+    }
+
+    .intro-left-title{
+        font-size: 50px;
+        line-height: 70px;
+    }
+
+    .intro-left-sub{
+        font-size: 15px;
+    }
+
+    .intro-left-text{
+        font-size: 22px;
+    }
+
+    .intro-left-buttons-1{
+        font-size: 19px;
+    }
+
+    .intro-left-buttons-2{
+        font-size: 19px;
+    }
+
+    .intro-address-text{
+        font-size: 11px;
+    }
+
+    .intro-address-code{
+        font-size: 11px;
+    }
+
+
+    .section1-img-info-text{
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .section1-img-info-button{
+        width: 150px;
+        height: 40px;
+        font-size: 15px;
+    }
+
+
+
+
+
+
+    .section2-card{
+        width: 100%;
+    }
+}
+
+@media(max-width: 450px){
+    .container{
+        width: 300px;
+    }
+}

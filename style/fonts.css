@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'FontAwesome Brands';
+    src: url("../icon/webfonts/fa-brands-400.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome Duotone';
+    src: url("../icon/webfonts/fa-duotone-900.ttf");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url("../icon/webfonts/fa-light-300.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url("../icon/webfonts/fa-regular-400.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url("../icon/webfonts/fa-solid-900.ttf");
+    font-weight: 900;
+}
+
+.fas {
+    font-family: 'FontAwesome';
+    font-weight: 900;
+}
+
+.far {
+    font-family: 'FontAwesome';
+    font-weight: 400;
+}
+
+.fal {
+    font-family: 'FontAwesome';
+    font-weight: 300;
+}
+
+.fad {
+    font-family: 'FontAwesome Duotone';
+    font-weight: 900;
+}
+
+.fab {
+    font-family: 'FontAwesome Brands';
+    font-weight: 400;
+}
+
+
+
+@font-face {
+    font-family: "SF Pro Display";
+    src: url("../font/SF_Pro_Display/SFProDisplay-Semibold.ttf") ;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "SF Pro Display";
+    src: url("../font/SF_Pro_Display/SFProDisplay-Bold.ttf") ;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "SF Pro Display";
+    src: url("../font/SF_Pro_Display/SFProDisplay-Regular.ttf") ;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "SF Pro Display";
+    src: url("../font/SF_Pro_Display/SFProDisplay-Medium.ttf") ;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "SF Pro Display";
+    src: url("../font/SF_Pro_Display/SFProDisplay-Heavy.ttf") ;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "Nunito";
+    src: url("../font/Nunito/Nunito-ExtraBold.ttf") ;
+    font-weight: 800;
+}
+
+
+.icon-bars::before{
+    content: "\f0c9";
+    font-style: normal;
+    color: #FFFFFF;
+}
